@@ -1,0 +1,5 @@
+com\primus\qa\util\TestUtil.class
+com\primus\qa\pages\SignUpPage.class
+com\primus\qa\pages\HomePage.class
+com\primus\qa\pages\LoginPage.class
+com\primus\qa\base\TestBase.class

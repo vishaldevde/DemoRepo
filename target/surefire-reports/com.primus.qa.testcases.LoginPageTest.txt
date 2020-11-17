@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.primus.qa.testcases.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.355 s - in com.primus.qa.testcases.LoginPageTest
